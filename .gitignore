@@ -1,0 +1,54 @@
+# ── Secrets / personal state ────────────────────────────────────────────────
+# .env holds live OAuth client IDs and secrets — never commit. Use
+# .env.example as the template for new clones.
+.env
+# Drift SQLite database — per-user state (habits, tasks, OAuth tokens),
+# file-locked while the app runs.
+dashboard.db
+
+# ── Build artifacts ─────────────────────────────────────────────────────────
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# pubspec.lock IS committed (recommended for application repos) so all
+# clones build against the same dependency versions.
+
+# ── Editor / OS junk ────────────────────────────────────────────────────────
+.DS_Store
+.atom/
+.history
+.idea/
+.svn/
+.swiftpm/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.log
+*.pyc
+*.class
+
+# ── Coverage ────────────────────────────────────────────────────────────────
+/coverage/
+
+# ── Android scaffolding artifacts (not used — Windows-only build) ───────────
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ── Symbolication / obfuscation ─────────────────────────────────────────────
+app.*.symbols
+app.*.map.json
+
+# ── Asset sources (originals kept locally, not in repo) ─────────────────────
+assets/backgrounds/*/originals/
+assets/icons/*/originals/
+
+# ── Python scraper outputs cached locally ───────────────────────────────────
+__pycache__/

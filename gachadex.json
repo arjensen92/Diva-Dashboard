@@ -1,0 +1,1907 @@
+[
+  {
+    "id": 1,
+    "name": "Geckrow",
+    "fileStem": "Geckrow",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Gecko Mon",
+    "height": "1'00\"",
+    "weight": "11 lbs",
+    "dexEntry": "Geckrow live in humid jungles and constantly climb the large trees. In the morning, they soak up the sunlight from the canopy, but when the day turns too hot, they descend to the floor to cool themselves in mud pools."
+  },
+  {
+    "id": 2,
+    "name": "Goanopy",
+    "fileStem": "Goanopy",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Goanna Mon",
+    "height": "3'07\"",
+    "weight": "54 lbs",
+    "dexEntry": "Goanopy spend most of their time resting on the wide bows of tree branches, soaking up the sun, and only descend to hunt for prey. To discourage scavengers, they haul their meals high above the jungle floor before eating them."
+  },
+  {
+    "id": 3,
+    "name": "Varanitor",
+    "fileStem": "Varanitor",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Ground",
+    "category": "Monitor Mon",
+    "height": "9'02\"",
+    "weight": "274.5 lbs",
+    "dexEntry": "Unlike their earlier evolved forms, Varanitor spend much of their time on the ground resting alongside stream beds and basking in streams of sunlight that reach the floor. If they feel they are not getting enough sunlight, they will uproot and knock over large trees to clear the sky."
+  },
+  {
+    "id": 4,
+    "name": "Hissiorite",
+    "fileStem": "Hissiorite",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "Meteor Snake Mon",
+    "height": "1'04\"",
+    "weight": "1.8 lbs",
+    "dexEntry": "The base of it's neck emits super-heated gas that envelopes it's body and causes it to hover a few inches off the ground, similar to a hot air balloon. Because of this, it can travel quickly, even over water."
+  },
+  {
+    "id": 5,
+    "name": "Cobarett",
+    "fileStem": "Cobarett",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "Comet Snake Mon",
+    "height": "2'00\"",
+    "weight": "44.5 lbs",
+    "dexEntry": "It covers itself in thick, billowing smoke so that it can slide easily through thick brush. THe source of the smoke is its molten body temperature, which is so hot that tongues of flame shoot from it's mouth."
+  },
+  {
+    "id": 6,
+    "name": "Pythonova",
+    "fileStem": "Pythonova",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "Nova Snake Mon",
+    "height": "4'07\"",
+    "weight": "450 lbs",
+    "dexEntry": "It is short-tempered and when enraged, the flames on it's back burn hotter and it's smoke tail becomes thicker and longer. It uses it's smoke tail to coil around and smother it's target."
+  },
+  {
+    "id": 7,
+    "name": "Ninoala",
+    "fileStem": "Ninoala",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Koala Mon"
+  },
+  {
+    "id": 8,
+    "name": "Koaninja",
+    "fileStem": "Koaninja",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Fighting",
+    "category": "Ninja Mon"
+  },
+  {
+    "id": 9,
+    "name": "Anu",
+    "fileStem": "Anu",
+    "rarity": "common",
+    "type1": "Dark",
+    "type2": "Psychic",
+    "category": "Dream Fox Mon",
+    "height": "1'04\"",
+    "weight": "3.1 lbs"
+  },
+  {
+    "id": 10,
+    "name": "Merlicun",
+    "fileStem": "Merlicun",
+    "rarity": "common",
+    "type1": "Dragon",
+    "type2": "Bug",
+    "category": "Dragon Worm Mon",
+    "height": "2'07\"",
+    "weight": "4.9 lbs",
+    "dexEntry": "Merlicun is a hardy insect creature that has evolved to be efficient at both attack and defense. They gather in the tree canopies of ancient forests to feed on fruits and leaves. When threatened they will first size up their opponent. If they feel as though they can win they will relentlessly headbutt their foe. But, if they appear to be overpowered they will compress their body into what resembles pupae and focus on defending themselves."
+  },
+  {
+    "id": 11,
+    "name": "Firomenis",
+    "fileStem": "Firomenis",
+    "rarity": "common",
+    "type1": "Dragon",
+    "type2": "Bug",
+    "category": "Dragon Moth Mon",
+    "height": "5'11\"",
+    "weight": "15.2 lbs",
+    "dexEntry": "These mons are large and tough from the many years spent as a Merlicun. Their jaws can crush through trees and bones, and their flight is strong enough to carry people. There are very few Firomenis in the world because most wild Merlicun don't live long enough to evolve, but that is a good thing because their voracious appetites can quickly deplete the vegetation around them."
+  },
+  {
+    "id": 12,
+    "name": "Baoby",
+    "fileStem": "Baoby",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Baobab Calf Mon",
+    "dexEntry": "Baoby travel from river to river in search of water to drink and store. The leafy ossicones on its head conceal movable points that act similar to a dowsing rod. Many creatures follow Baoby in droughts."
+  },
+  {
+    "id": 13,
+    "name": "Baobaraffe",
+    "fileStem": "Baobaraffe",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Baobab Giraffe Mon"
+  },
+  {
+    "id": 14,
+    "name": "Nuenflu",
+    "fileStem": "Nuenflu",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Ice",
+    "category": "Snowball Mon",
+    "height": "2'07\"",
+    "weight": "10.6 lbs",
+    "dexEntry": "Nuenflu secretly spreads diseases during the winter months."
+  },
+  {
+    "id": 15,
+    "name": "Drashimi",
+    "fileStem": "Drashimi",
+    "rarity": "common",
+    "type1": "Dragon",
+    "category": "Sushi Mon"
+  },
+  {
+    "id": 16,
+    "name": "Tsushimi",
+    "fileStem": "Tsushimi",
+    "rarity": "common",
+    "type1": "Dragon",
+    "category": "Sushi Mon"
+  },
+  {
+    "id": 17,
+    "name": "Tobishimi",
+    "fileStem": "Tobishimi",
+    "rarity": "common",
+    "type1": "Dragon",
+    "category": "Sushi Mon"
+  },
+  {
+    "id": 18,
+    "name": "Baulder",
+    "fileStem": "Baulder",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Dragon",
+    "category": "Jagged Mon",
+    "height": "1'08\"",
+    "weight": "106.7 lbs",
+    "dexEntry": "Baulder carry around a rock given to them soon after birth by its parents. They gnaw on this rock every chance they get, as it seems to sharpen their teeth."
+  },
+  {
+    "id": 19,
+    "name": "Dreadrock",
+    "fileStem": "Dreadrock",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Dragon",
+    "category": "? Mon",
+    "height": "3'07\"",
+    "weight": "235.5 lbs"
+  },
+  {
+    "id": 20,
+    "name": "Tekagon",
+    "fileStem": "Tekagon",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Dragon",
+    "category": "Towering Mon",
+    "height": "9'06\"",
+    "weight": "684.3 lbs",
+    "dexEntry": "Tekagon roam their territory in search of plants to eat. They are blind, but can feel vibrations through the ground from great distances. Tekagon recognize the vibrations their family gives off."
+  },
+  {
+    "id": 21,
+    "name": "Nymbi",
+    "fileStem": "Nymbi",
+    "rarity": "common",
+    "type1": "Fire",
+    "type2": "Light",
+    "category": "Dazzle Mon",
+    "height": "1'08\"",
+    "weight": "52.9 lbs"
+  },
+  {
+    "id": 22,
+    "name": "Deember",
+    "fileStem": "Deember",
+    "rarity": "common",
+    "type1": "Fire",
+    "type2": "Light",
+    "category": "Incandescent Mon"
+  },
+  {
+    "id": 23,
+    "name": "Lavee",
+    "fileStem": "Lavee",
+    "rarity": "common",
+    "type1": "Dragon",
+    "type2": "Fire",
+    "category": "? Mon"
+  },
+  {
+    "id": 24,
+    "name": "Lavare",
+    "fileStem": "Lavare",
+    "rarity": "common",
+    "type1": "Dragon",
+    "type2": "Fire",
+    "category": "? Mon"
+  },
+  {
+    "id": 25,
+    "name": "Crator",
+    "fileStem": "Crator",
+    "rarity": "common",
+    "type1": "Dragon",
+    "type2": "Fire",
+    "category": "? Mon"
+  },
+  {
+    "id": 26,
+    "name": "Efflutal",
+    "fileStem": "Efflutal",
+    "rarity": "common",
+    "type1": "Psychic",
+    "type2": "Fire",
+    "category": "Mentalist Mon",
+    "height": "2'00\"",
+    "weight": "21.8 lbs"
+  },
+  {
+    "id": 27,
+    "name": "Hayog",
+    "fileStem": "Hayog",
+    "rarity": "common",
+    "type1": "Ground",
+    "type2": "Grass",
+    "category": "Shelter Mon",
+    "dexEntry": "Hayog have a strong instinct to build themselves homes, unfortunately they tend to choose flimsy building materials. The hay that grows on its back is very soft and provides Hayog comfort and security."
+  },
+  {
+    "id": 28,
+    "name": "Hogouse",
+    "fileStem": "Hogouse",
+    "rarity": "common",
+    "type1": "Ground",
+    "type2": "Grass",
+    "category": "Shelter Mon"
+  },
+  {
+    "id": 29,
+    "name": "Hogriks",
+    "fileStem": "Hogriks",
+    "rarity": "common",
+    "type1": "Ground",
+    "type2": "Rock",
+    "category": "Shelter Mon",
+    "dexEntry": "Losing the grass typing on evolution has made Hogriks' body much less susceptible to being blown down. Often found resting near small villages, Hogriks will let small Pokemon take refuge inside its fortified body."
+  },
+  {
+    "id": 30,
+    "name": "Webruiser",
+    "fileStem": "Webruiser",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Fighting",
+    "category": "Boxing Spider Mon",
+    "height": "4'07\"",
+    "weight": "180.8 lbs",
+    "dexEntry": "Webruiser stands on its mandibles and swings at its foes with its legs, its thorax has a fake face to act as a punching bag for enemies. It may look dazed or confused as it stumbles around the battlefield, but this is a tactic to deter its opponents. Its punches are wild but calculated."
+  },
+  {
+    "id": 31,
+    "name": "Pilfetch",
+    "fileStem": "Pilfetch",
+    "rarity": "common",
+    "type1": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 32,
+    "name": "Criminalis",
+    "fileStem": "Criminalis",
+    "rarity": "common",
+    "type1": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 33,
+    "name": "Pasturlo",
+    "fileStem": "Pasturlo",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Sleepy Buffalo Mon",
+    "height": "2'04\"",
+    "weight": "15.2 lbs",
+    "dexEntry": "Pasturlo tries its best to stay asleep at all times, but gets extremely angry when it is awoken from its slumber."
+  },
+  {
+    "id": 34,
+    "name": "Brambull",
+    "fileStem": "Brambull",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Seed Mon",
+    "height": "3'03\"",
+    "weight": "28.7 lbs",
+    "dexEntry": "A thick cover of leaves coats their wooly mane and covers over their eyes, though they can still see fine."
+  },
+  {
+    "id": 35,
+    "name": "Maizotaur",
+    "fileStem": "Maizotaur",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Fighting",
+    "category": "Seed Mon",
+    "height": "6'07\"",
+    "weight": "220.5 lbs",
+    "dexEntry": "The leaves that grow over Maizotaur's shoulders and back occasionally will attract nesting bird Pok\u00c3\u00a9mon."
+  },
+  {
+    "id": 36,
+    "name": "Minamai",
+    "fileStem": "Minamai",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "? Mon"
+  },
+  {
+    "id": 37,
+    "name": "Marelstorm",
+    "fileStem": "Marelstorm",
+    "rarity": "common",
+    "type1": "Water",
+    "type2": "Steel",
+    "category": "Marlin Mon"
+  },
+  {
+    "id": 38,
+    "name": "Spinarak",
+    "fileStem": "Spinarak",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Poison",
+    "category": "String Spit Mon",
+    "height": "1'08\"",
+    "weight": "18.7 lbs",
+    "dexEntry": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pok\u00c3\u00a9mon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands."
+  },
+  {
+    "id": 39,
+    "name": "Ariados",
+    "fileStem": "Ariados",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Poison",
+    "category": "Long Leg Mon",
+    "height": "3'07\"",
+    "weight": "73.9 lbs",
+    "dexEntry": "There are some areas where people use the string Ariados spins for their own weaving. The resulting cloth is popular for its strength."
+  },
+  {
+    "id": 40,
+    "name": "Torkoal",
+    "fileStem": "Torkoal",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "Coal Mon",
+    "height": "1'08\"",
+    "weight": "177.3 lbs",
+    "dexEntry": "You can tell how it's feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health."
+  },
+  {
+    "id": 41,
+    "name": "Tormine",
+    "fileStem": "Tormine",
+    "rarity": "common",
+    "type1": "Fire",
+    "type2": "Rock",
+    "category": "Blast Furnace Mon",
+    "height": "4'03\"",
+    "weight": "265.9 lbs",
+    "dexEntry": "When threatened, Tormine swiftly ignites its coal stores and produces a powerful blast of heat and gas, hot enough to melt metal ore, to ward away its attacker."
+  },
+  {
+    "id": 42,
+    "name": "Sunkern",
+    "fileStem": "Sunkern",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Seed Mon",
+    "height": "1'00\"",
+    "weight": "4 lbs",
+    "dexEntry": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes."
+  },
+  {
+    "id": 43,
+    "name": "Sunflora",
+    "fileStem": "Sunflora",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Sun Mon",
+    "height": "2'07\"",
+    "weight": "18.7 lbs",
+    "dexEntry": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night. As the hot season approaches, the petals on this Pok\u00c3\u00a9mon's face become more vivid and lively."
+  },
+  {
+    "id": 44,
+    "name": "Sunnydra",
+    "fileStem": "Sunnydra",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "category": "Sunflower Mon",
+    "height": "5'11\"",
+    "weight": "41.9 lbs",
+    "dexEntry": "On sunny days, they sit very still with their faces turned to the sun, soaking in the warmth. If disturbed, they become highly aggressive."
+  },
+  {
+    "id": 45,
+    "name": "Luvdisc",
+    "fileStem": "Luvdisc",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "Rendezvous Mon",
+    "height": "2'00\"",
+    "weight": "19.2 lbs",
+    "dexEntry": "Luvdisc's heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pok\u00c3\u00a9mon is promised a loving relationship that never ends."
+  },
+  {
+    "id": 46,
+    "name": "Shorelorn",
+    "fileStem": "Shorelorn",
+    "rarity": "common",
+    "type1": "Water",
+    "type2": "Ghost",
+    "category": "Broken Mon",
+    "height": "6'11\"",
+    "weight": "24.9 lbs",
+    "dexEntry": "It floats aimlessly though the seas, barely seeming like a living creature at times. Its slender, sickly-looking body allows it to easily slip through hard-to-reach areas. However, this also makes them susceptible to being washed ashore. Many washed-up Shorelorn are mistaken for long-dead fish pokemon even if freshly stranded."
+  },
+  {
+    "id": 47,
+    "name": "Cryscross",
+    "fileStem": "Cryscross",
+    "rarity": "common",
+    "type1": "Ice",
+    "category": "Sharp Flake Mon",
+    "height": "1'00\"",
+    "weight": "132.3 lbs",
+    "dexEntry": "The 4 points of their bodies can be very sharp to the touch. They normally drift around lazily, but large groups of them are sometimes blown through the air, causing many potentially dangerous cuts to anything in their path."
+  },
+  {
+    "id": 48,
+    "name": "Cryogonal",
+    "fileStem": "Cryogonal",
+    "rarity": "common",
+    "type1": "Ice",
+    "category": "Crystallizing Mon",
+    "height": "3'07\"",
+    "weight": "326.3 lbs",
+    "dexEntry": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice."
+  },
+  {
+    "id": 49,
+    "name": "Wolfman",
+    "fileStem": "Wolfman",
+    "rarity": "common",
+    "type1": "Ice",
+    "category": "? Mon"
+  },
+  {
+    "id": 50,
+    "name": "Warwolf",
+    "fileStem": "Warwolf",
+    "rarity": "common",
+    "type1": "Ice",
+    "category": "? Mon"
+  },
+  {
+    "id": 51,
+    "name": "Corsola",
+    "fileStem": "Corsola",
+    "rarity": "common",
+    "type1": "Water",
+    "type2": "Rock",
+    "category": "Coral Mon",
+    "height": "2'00\"",
+    "weight": "11 lbs",
+    "dexEntry": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pok\u00c3\u00a9mon. When the water temperature falls, this Pok\u00c3\u00a9mon migrates to the southern seas."
+  },
+  {
+    "id": 52,
+    "name": "Coralya",
+    "fileStem": "Coralya",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Psychic",
+    "category": "? Mon",
+    "dexEntry": "Coralya are only said to appear in water that is completely untainted by human kind. Often, reports of Coralya population booms will arise around the same time as Suicune sightings. When it leaves its home, it carries about a gallon of its home water with it, and is known to regularly spend time ridding the water of any impurities it may come into contact with on its travels."
+  },
+  {
+    "id": 53,
+    "name": "Solacor",
+    "fileStem": "Solacor",
+    "rarity": "common",
+    "type1": "Ghost",
+    "type2": "Rock",
+    "category": "? Mon",
+    "dexEntry": "When a Corsola's home waters get polluted, there is a chance that it may evolve into Solacor as a means of survival. Solacor's rocky armor is fragile and crumbling, but can be manipulated however it sees fit to protect its watery core."
+  },
+  {
+    "id": 54,
+    "name": "Dunsparce",
+    "fileStem": "Dunsparce",
+    "rarity": "common",
+    "type1": "Normal",
+    "category": "Land Snake Mon",
+    "height": "4'11\"",
+    "weight": "30.9 lbs",
+    "dexEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pok\u00c3\u00a9mon is known to make its nest in complex shapes deep under the ground. If you happen to find one, consider yourself lucky."
+  },
+  {
+    "id": 55,
+    "name": "Dunymph",
+    "fileStem": "Dunymph",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Normal",
+    "category": "? Mon"
+  },
+  {
+    "id": 56,
+    "name": "Dunrago",
+    "fileStem": "Dunrago",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Dragon",
+    "category": "? Mon"
+  },
+  {
+    "id": 57,
+    "name": "Titaneon",
+    "fileStem": "Titaneon",
+    "rarity": "common",
+    "type1": "Steel",
+    "category": "Alloy Mon"
+  },
+  {
+    "id": 58,
+    "name": "Nimbeon",
+    "fileStem": "Nimbeon",
+    "rarity": "common",
+    "type1": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 59,
+    "name": "Trantima",
+    "fileStem": "Trantima",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Steel",
+    "category": "Daytime Mon"
+  },
+  {
+    "id": 60,
+    "name": "Girafarig",
+    "fileStem": "Girafarig",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Psychic",
+    "category": "Long Neck Mon",
+    "height": "4'11\"",
+    "weight": "91.5 lbs",
+    "dexEntry": "Girafarig's rear head contains a tiny brain that is too small for thinking. However, the rear head doesn't need to sleep, so it can keep watch over its surroundings 24 hours a day."
+  },
+  {
+    "id": 61,
+    "name": "Gireamer",
+    "fileStem": "Gireamer",
+    "rarity": "common",
+    "type1": "Psychic",
+    "type2": "Normal",
+    "category": "? Mon"
+  },
+  {
+    "id": 62,
+    "name": "Nitmarig",
+    "fileStem": "Nitmarig",
+    "rarity": "common",
+    "type1": "Ghost",
+    "type2": "Normal",
+    "category": "? Mon"
+  },
+  {
+    "id": 63,
+    "name": "Stantler",
+    "fileStem": "Stantler",
+    "rarity": "common",
+    "type1": "Normal",
+    "category": "Big Horn Mon",
+    "height": "4'07\"",
+    "weight": "157 lbs",
+    "dexEntry": "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pok\u00c3\u00a9mon was hunted close to extinction by those who were after the priceless antlers. The round balls found on the fallen antlers can be ground into a powder that aids in sleeping."
+  },
+  {
+    "id": 64,
+    "name": "Moosid",
+    "fileStem": "Moosid",
+    "rarity": "common",
+    "type1": "Dark",
+    "type2": "Normal",
+    "category": "Id Mon",
+    "dexEntry": "Moosid are rarely involved in the affairs of other Pok\u00c3\u00a9mon, preferring to keep to themselves. Notoriously aggressive, a Moosid will pursue any perceived threat or prey relentlessly, until either they fall, or it does."
+  },
+  {
+    "id": 65,
+    "name": "Egoelk",
+    "fileStem": "Egoelk",
+    "rarity": "common",
+    "type1": "Psychic",
+    "type2": "Normal",
+    "category": "Ego Mon",
+    "dexEntry": "Egoelk are eternally calm, rarely seen to react to external provocation unless absolutely necessary. It is said that, if befriended, it is possible to see the future by looking through the space between its horns."
+  },
+  {
+    "id": 66,
+    "name": "Suprago",
+    "fileStem": "Suprago",
+    "rarity": "common",
+    "type1": "Fighting",
+    "type2": "Normal",
+    "category": "Super-Ego Mon",
+    "dexEntry": "Suprago are often leaders of their communities. They have high moral values, and can often be found with a gaggle of smaller Pok\u00c3\u00a9mon in tow. Peaceful in nature, a Suprago will not attack unless it senses a threat to its charges."
+  },
+  {
+    "id": 67,
+    "name": "Timberry",
+    "fileStem": "Timberry",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "Wild Berry Mon",
+    "height": "2'00\"",
+    "weight": "39.7 lbs"
+  },
+  {
+    "id": 68,
+    "name": "Howliage",
+    "fileStem": "Howliage",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "? Mon",
+    "height": "3'03\"",
+    "weight": "48.5 lbs"
+  },
+  {
+    "id": 69,
+    "name": "Botanine",
+    "fileStem": "Botanine",
+    "rarity": "common",
+    "type1": "Grass",
+    "category": "? Mon",
+    "height": "5'03\"",
+    "weight": "143.3 lbs"
+  },
+  {
+    "id": 70,
+    "name": "Dampurr",
+    "fileStem": "Dampurr",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "River Cat Mon",
+    "height": "1'04\"",
+    "weight": "20.1 lbs",
+    "dexEntry": "Dampurr is playful and enjoys splashing in pools of water."
+  },
+  {
+    "id": 71,
+    "name": "Rainther",
+    "fileStem": "Rainther",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "? Mon",
+    "height": "3'07\"",
+    "weight": "80 lbs",
+    "dexEntry": "Rainther is a stealthy hunter that knocks its prey out with jets of water from its tail."
+  },
+  {
+    "id": 72,
+    "name": "Delugar",
+    "fileStem": "Delugar",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "? Mon",
+    "height": "4'11\"",
+    "weight": "119 lbs"
+  },
+  {
+    "id": 73,
+    "name": "Bonfur",
+    "fileStem": "Bonfur",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "Warmth Mon",
+    "height": "2'00\"",
+    "weight": "22 lbs"
+  },
+  {
+    "id": 74,
+    "name": "Tindursa",
+    "fileStem": "Tindursa",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "? Mon",
+    "height": "3'03\"",
+    "weight": "150.1 lbs"
+  },
+  {
+    "id": 75,
+    "name": "Sizzly",
+    "fileStem": "Sizzly",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "? Mon",
+    "height": "8'10\"",
+    "weight": "628.3 lbs"
+  },
+  {
+    "id": 76,
+    "name": "Saurky",
+    "fileStem": "Saurky",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "? Mon",
+    "dexEntry": "Occasionally, this Pokemon is distributed as a Starter for new trainers."
+  },
+  {
+    "id": 77,
+    "name": "Crestaka",
+    "fileStem": "Crestaka",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "? Mon"
+  },
+  {
+    "id": 78,
+    "name": "Avipex",
+    "fileStem": "Avipex",
+    "rarity": "common",
+    "type1": "Water",
+    "type2": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 79,
+    "name": "Lollybog",
+    "fileStem": "Lollybog",
+    "rarity": "common",
+    "type1": "Poison",
+    "type2": "Ghost",
+    "category": "? Mon"
+  },
+  {
+    "id": 80,
+    "name": "Brewtrid",
+    "fileStem": "Brewtrid",
+    "rarity": "common",
+    "type1": "Poison",
+    "type2": "Ghost",
+    "category": "? Mon"
+  },
+  {
+    "id": 81,
+    "name": "Forbiddron",
+    "fileStem": "Forbiddron",
+    "rarity": "common",
+    "type1": "Poison",
+    "type2": "Ghost",
+    "category": "? Mon"
+  },
+  {
+    "id": 82,
+    "name": "Plushion",
+    "fileStem": "Plushion",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Fairy",
+    "category": "Pillow Mon",
+    "dexEntry": "Because of its natural padding Plushion is unfazed by drops and falls, but will cry if its bow is torn. It enjoys snuggling next to trainers and will often get underfoot in an attempt to get closer."
+  },
+  {
+    "id": 83,
+    "name": "Rocotton",
+    "fileStem": "Rocotton",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Fairy",
+    "category": "Waiting Mon",
+    "dexEntry": "Rocotton spends most of its time constructing its dress in preparation for evolving. Its hardworking nature extends to helping trainers with all manner of domestic activities."
+  },
+  {
+    "id": 84,
+    "name": "Tuffettry",
+    "fileStem": "Tuffettry",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Fairy",
+    "category": "Extravagant Mon",
+    "dexEntry": "Tuffettry craves excitement. If it encounters a dreary person it will attempt to cheer them by redecorating in bright colors. It is attracted to shiny, brightly-colored objects and prefers trainers who dress fashionably."
+  },
+  {
+    "id": 85,
+    "name": "Raskit",
+    "fileStem": "Raskit",
+    "rarity": "common",
+    "type1": "Dark",
+    "category": "? Mon"
+  },
+  {
+    "id": 86,
+    "name": "Scruffian",
+    "fileStem": "Scruffian",
+    "rarity": "common",
+    "type1": "Dark",
+    "type2": "Poison",
+    "category": "? Mon"
+  },
+  {
+    "id": 87,
+    "name": "Dynabit",
+    "fileStem": "Dynabit",
+    "rarity": "common",
+    "type1": "Electric",
+    "category": "Generator Mon",
+    "height": "2'00\"",
+    "weight": "20.9 lbs",
+    "dexEntry": "Both its legs can spin independently from its body. It loves running up hills and rolling down them."
+  },
+  {
+    "id": 88,
+    "name": "Pompet",
+    "fileStem": "Pompet",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Fairy",
+    "category": "? Mon"
+  },
+  {
+    "id": 89,
+    "name": "Pomprim",
+    "fileStem": "Pomprim",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Fairy",
+    "category": "? Mon"
+  },
+  {
+    "id": 90,
+    "name": "Droopig",
+    "fileStem": "Droopig",
+    "rarity": "common",
+    "type1": "Dark",
+    "category": "? Mon"
+  },
+  {
+    "id": 91,
+    "name": "Hoolihog",
+    "fileStem": "Hoolihog",
+    "rarity": "common",
+    "type1": "Dark",
+    "category": "? Mon"
+  },
+  {
+    "id": 92,
+    "name": "Kankwart",
+    "fileStem": "Kankwart",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Poison",
+    "category": "Carbuncle Mon",
+    "dexEntry": "The gemstones growing on its body are the result of exposure to an infectious agent. Over time more boils will emerge as more of its body becomes crystallized."
+  },
+  {
+    "id": 93,
+    "name": "Kankryst",
+    "fileStem": "Kankryst",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Poison",
+    "category": "? Mon"
+  },
+  {
+    "id": 94,
+    "name": "Kankersaur",
+    "fileStem": "Kankersaur",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Poison",
+    "category": "? Mon"
+  },
+  {
+    "id": 95,
+    "name": "Impurp",
+    "fileStem": "Impurp",
+    "rarity": "common",
+    "type1": "Fairy",
+    "type2": "Flying",
+    "category": "Quick Trick Mon",
+    "height": "1'00\"",
+    "weight": "0.7 lbs",
+    "dexEntry": "Impurp are mischievous and playful Pok\u00c3\u00a9mon that love to prank weary travellers passing through their territories. If they believe their target has a bad sense of humour they will relentlessly taunt them until they are scared off."
+  },
+  {
+    "id": 96,
+    "name": "Nymfusha",
+    "fileStem": "Nymfusha",
+    "rarity": "common",
+    "type1": "Fairy",
+    "type2": "Flying",
+    "category": "Chicane Mon",
+    "height": "3'07\"",
+    "weight": "48.5 lbs",
+    "dexEntry": "Nymfusha's fondness for pranks only grows upon evolution. They love nothing more than picking up passing people or Pok\u00c3\u00a9mon and stranding them high up on mountain ledges or in tall trees."
+  },
+  {
+    "id": 97,
+    "name": "Smoald",
+    "fileStem": "Smoald",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "Slow Burn Mon",
+    "dexEntry": "A haze develops around any stone dais a Smoald has claimed as its own. The smoke it breathes changes scent and color based on what it has last eaten."
+  },
+  {
+    "id": 98,
+    "name": "Bombustoad",
+    "fileStem": "Bombustoad",
+    "rarity": "common",
+    "type1": "Fire",
+    "category": "Turbo Mon",
+    "dexEntry": "Its many vents allow it to burn fuel very quickly, giving it terrific speed. However, Bombustoad can easily overheat and, if not careful, explode."
+  },
+  {
+    "id": 99,
+    "name": "Sligment",
+    "fileStem": "Sligment",
+    "rarity": "common",
+    "type1": "Bug",
+    "category": "? Mon"
+  },
+  {
+    "id": 100,
+    "name": "Viscolor",
+    "fileStem": "Viscolor",
+    "rarity": "common",
+    "type1": "Bug",
+    "category": "? Mon"
+  },
+  {
+    "id": 101,
+    "name": "Gelescent",
+    "fileStem": "Gelescent",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Water",
+    "category": "? Mon"
+  },
+  {
+    "id": 102,
+    "name": "Dripwirt",
+    "fileStem": "Dripwirt",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "? Mon"
+  },
+  {
+    "id": 103,
+    "name": "Pourka",
+    "fileStem": "Pourka",
+    "rarity": "common",
+    "type1": "Water",
+    "category": "? Mon"
+  },
+  {
+    "id": 104,
+    "name": "Umbreeze",
+    "fileStem": "Umbreeze",
+    "rarity": "common",
+    "type1": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 105,
+    "name": "Lumini",
+    "fileStem": "Lumini",
+    "rarity": "common",
+    "type1": "Electric",
+    "type2": "Fairy",
+    "category": "? Mon"
+  },
+  {
+    "id": 106,
+    "name": "Lumedi",
+    "fileStem": "Lumedi",
+    "rarity": "common",
+    "type1": "Electric",
+    "type2": "Fairy",
+    "category": "? Mon"
+  },
+  {
+    "id": 107,
+    "name": "Lumaxi",
+    "fileStem": "Lumaxi",
+    "rarity": "common",
+    "type1": "Electric",
+    "type2": "Fairy",
+    "category": "? Mon"
+  },
+  {
+    "id": 108,
+    "name": "Skelleks",
+    "fileStem": "Skelleks",
+    "rarity": "common",
+    "type1": "Ghost",
+    "type2": "Electric",
+    "category": "? Mon"
+  },
+  {
+    "id": 109,
+    "name": "Negagen",
+    "fileStem": "Negagen",
+    "rarity": "common",
+    "type1": "Ghost",
+    "type2": "Electric",
+    "category": "? Mon"
+  },
+  {
+    "id": 110,
+    "name": "Sillennium",
+    "fileStem": "Sillennium",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Psychic",
+    "category": "Milestone Mon"
+  },
+  {
+    "id": 111,
+    "name": "Mivota",
+    "fileStem": "Mivota",
+    "rarity": "common",
+    "type1": "Psychic",
+    "type2": "Fire",
+    "category": "Hope Mon"
+  },
+  {
+    "id": 112,
+    "name": "Beeheave",
+    "fileStem": "Beeheave",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Normal",
+    "category": "Drone Mon",
+    "height": "0'06\""
+  },
+  {
+    "id": 113,
+    "name": "Hivernor",
+    "fileStem": "Hivernor",
+    "rarity": "common",
+    "type1": "Bug",
+    "type2": "Psychic",
+    "category": "Hivemind Mon",
+    "height": "5'03\""
+  },
+  {
+    "id": 114,
+    "name": "Blonk",
+    "fileStem": "Blonk",
+    "rarity": "common",
+    "type1": "Rock",
+    "category": "Standstill Mon",
+    "height": "1'00\"",
+    "dexEntry": "A Blonk's long trail shows where it has been, but its movements are so slow they appear not to move at all."
+  },
+  {
+    "id": 115,
+    "name": "Colobble",
+    "fileStem": "Colobble",
+    "rarity": "common",
+    "type1": "Rock",
+    "category": "Aggregate Mon",
+    "height": "2'00\"",
+    "dexEntry": "Colobble pile rocks onto themselves to increase their size and strength, but their piles are fragile and need to be replaced constantly."
+  },
+  {
+    "id": 116,
+    "name": "Colobbus",
+    "fileStem": "Colobbus",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Fighting",
+    "category": "Breakout Mon",
+    "height": "7'03\"",
+    "dexEntry": "Through force of will it carries the weight of countless rocks, shattering all but the strongest of them to make its body almost as hard as diamond."
+  },
+  {
+    "id": 117,
+    "name": "Dialapis",
+    "fileStem": "Dialapis",
+    "rarity": "common",
+    "type1": "Rock",
+    "category": "? Mon",
+    "height": "2'07\""
+  },
+  {
+    "id": 118,
+    "name": "Chickite",
+    "fileStem": "Chickite",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Flying",
+    "category": "Streamer Mon"
+  },
+  {
+    "id": 119,
+    "name": "Vitail",
+    "fileStem": "Vitail",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 120,
+    "name": "Turbatic",
+    "fileStem": "Turbatic",
+    "rarity": "common",
+    "type1": "Normal",
+    "type2": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 121,
+    "name": "Mondrog",
+    "fileStem": "Mondrog",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Rock",
+    "category": "World Mon",
+    "height": "26'03\"",
+    "dexEntry": "Mondrog collect and store seeds on their backs which slowly grow into small, unique habitats. The hollows in its body are sometimes used as burrows or collect rainwater."
+  },
+  {
+    "id": 122,
+    "name": "Anxiust",
+    "fileStem": "Anxiust",
+    "rarity": "common",
+    "type1": "Ground",
+    "category": "? Mon"
+  },
+  {
+    "id": 123,
+    "name": "Curiust",
+    "fileStem": "Curiust",
+    "rarity": "common",
+    "type1": "Ground",
+    "category": "? Mon"
+  },
+  {
+    "id": 124,
+    "name": "Dustfully",
+    "fileStem": "Dustfully",
+    "rarity": "common",
+    "type1": "Ground",
+    "category": "? Mon"
+  },
+  {
+    "id": 125,
+    "name": "Embat",
+    "fileStem": "Embat",
+    "rarity": "common",
+    "type1": "Fire",
+    "type2": "Flying",
+    "category": "? Mon",
+    "height": "0'08\"",
+    "weight": "11.9 lbs"
+  },
+  {
+    "id": 126,
+    "name": "Fumbat",
+    "fileStem": "Fumbat",
+    "rarity": "common",
+    "type1": "Fire",
+    "type2": "Flying",
+    "category": "Exhaust Mon"
+  },
+  {
+    "id": 127,
+    "name": "Chimbat",
+    "fileStem": "Chimbat",
+    "rarity": "common",
+    "type1": "Fire",
+    "type2": "Flying",
+    "category": "Exhaust Mon"
+  },
+  {
+    "id": 128,
+    "name": "Crucibat",
+    "fileStem": "Crucibat",
+    "rarity": "common",
+    "type1": "Fire",
+    "type2": "Rock",
+    "category": "Gargoyle Mon"
+  },
+  {
+    "id": 129,
+    "name": "Flixtrix",
+    "fileStem": "Flixtrix",
+    "rarity": "common",
+    "type1": "Dark",
+    "type2": "Electric",
+    "category": "Light Touch Mon"
+  },
+  {
+    "id": 130,
+    "name": "Chartail",
+    "fileStem": "Chartail",
+    "rarity": "common",
+    "type1": "Electric",
+    "type2": "Flying",
+    "category": "Directional Mon",
+    "dexEntry": "Its head father acts as a compass needle. Seeing one in the wild is considered good luck by travellers."
+  },
+  {
+    "id": 131,
+    "name": "Strivane",
+    "fileStem": "Strivane",
+    "rarity": "common",
+    "type1": "Electric",
+    "type2": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 132,
+    "name": "Navigale",
+    "fileStem": "Navigale",
+    "rarity": "common",
+    "type1": "Electric",
+    "type2": "Flying",
+    "category": "? Mon"
+  },
+  {
+    "id": 133,
+    "name": "Rockid",
+    "fileStem": "Rockid",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Normal",
+    "category": "? Mon",
+    "dexEntry": "Rockid love to climb to the highest point in sight. If too many gather in one place their headbutts will harden their rocky horns. More domesticated Rockid tend to see their horns curve due to petting and attention from humans."
+  },
+  {
+    "id": 134,
+    "name": "Stubhorn",
+    "fileStem": "Stubhorn",
+    "rarity": "common",
+    "type1": "Rock",
+    "type2": "Normal",
+    "category": "? Mon"
+  },
+  {
+    "id": 135,
+    "name": "Oppwold",
+    "fileStem": "Oppwold",
+    "rarity": "common",
+    "type1": "Grass",
+    "type2": "Steel",
+    "category": "Unshakable Mon",
+    "dexEntry": "Its bark is as resilient as iron and for ages people have used it for tools and building materials. A grove of Oppwold can hold back floods and glaciers."
+  },
+  {
+    "id": 136,
+    "name": "Triastick",
+    "fileStem": "Triastick",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 137,
+    "name": "Jurasper",
+    "fileStem": "Jurasper",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 138,
+    "name": "Cretassom",
+    "fileStem": "Cretassom",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 139,
+    "name": "Juncko",
+    "fileStem": "Juncko",
+    "rarity": "common",
+    "type1": "Ground"
+  },
+  {
+    "id": 140,
+    "name": "Scavengila",
+    "fileStem": "Scavengila",
+    "rarity": "common",
+    "type1": "Ground"
+  },
+  {
+    "id": 141,
+    "name": "Scalamber",
+    "fileStem": "Scalamber",
+    "rarity": "common",
+    "type1": "Ground"
+  },
+  {
+    "id": 142,
+    "name": "Scragorge",
+    "fileStem": "Scragorge",
+    "rarity": "common",
+    "type1": "Ground"
+  },
+  {
+    "id": 143,
+    "name": "Vampingo",
+    "fileStem": "Vampingo",
+    "rarity": "common",
+    "type1": "Ghost"
+  },
+  {
+    "id": 144,
+    "name": "Scarambi",
+    "fileStem": "Scarambi",
+    "rarity": "common",
+    "type1": "Dark"
+  },
+  {
+    "id": 145,
+    "name": "Scaroptu",
+    "fileStem": "Scaroptu",
+    "rarity": "common",
+    "type1": "Dark"
+  },
+  {
+    "id": 146,
+    "name": "Snowly",
+    "fileStem": "Snowly",
+    "rarity": "common",
+    "type1": "Ice"
+  },
+  {
+    "id": 147,
+    "name": "Strunk",
+    "fileStem": "Strunk",
+    "rarity": "common",
+    "type1": "Normal"
+  },
+  {
+    "id": 148,
+    "name": "Kalaxodon",
+    "fileStem": "Kalaxodon",
+    "rarity": "common",
+    "type1": "Normal"
+  },
+  {
+    "id": 149,
+    "name": "Curlusk",
+    "fileStem": "Curlusk",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 150,
+    "name": "Spiralusk",
+    "fileStem": "Spiralusk",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 151,
+    "name": "Mobiusk",
+    "fileStem": "Mobiusk",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 152,
+    "name": "Industove",
+    "fileStem": "Industove",
+    "rarity": "common",
+    "type1": "Steel"
+  },
+  {
+    "id": 153,
+    "name": "Larvalpha",
+    "fileStem": "Larvalpha",
+    "rarity": "common",
+    "type1": "Bug"
+  },
+  {
+    "id": 154,
+    "name": "Puteba",
+    "fileStem": "Puteba",
+    "rarity": "common",
+    "type1": "Bug"
+  },
+  {
+    "id": 155,
+    "name": "Imagamma",
+    "fileStem": "Imagamma",
+    "rarity": "common",
+    "type1": "Bug"
+  },
+  {
+    "id": 156,
+    "name": "Plantid",
+    "fileStem": "Plantid",
+    "rarity": "common",
+    "type1": "Bug"
+  },
+  {
+    "id": 157,
+    "name": "Reaphid",
+    "fileStem": "Reaphid",
+    "rarity": "common",
+    "type1": "Bug"
+  },
+  {
+    "id": 158,
+    "name": "Rootsy",
+    "fileStem": "Rootsy",
+    "rarity": "common",
+    "type1": "Normal"
+  },
+  {
+    "id": 159,
+    "name": "Roogilist",
+    "fileStem": "Roogilist",
+    "rarity": "common",
+    "type1": "Normal"
+  },
+  {
+    "id": 160,
+    "name": "Petalcher",
+    "fileStem": "Petalcher",
+    "rarity": "common",
+    "type1": "Poison"
+  },
+  {
+    "id": 161,
+    "name": "Littoril",
+    "fileStem": "Littoril",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 162,
+    "name": "Exspunge",
+    "fileStem": "Exspunge",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 163,
+    "name": "Tidoral",
+    "fileStem": "Tidoral",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 164,
+    "name": "Upspark",
+    "fileStem": "Upspark",
+    "rarity": "common",
+    "type1": "Electric"
+  },
+  {
+    "id": 165,
+    "name": "Shockfull",
+    "fileStem": "Shockfull",
+    "rarity": "common",
+    "type1": "Electric"
+  },
+  {
+    "id": 166,
+    "name": "Zapoteur",
+    "fileStem": "Zapoteur",
+    "rarity": "common",
+    "type1": "Electric"
+  },
+  {
+    "id": 167,
+    "name": "Clowee",
+    "fileStem": "Clowee",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 168,
+    "name": "Clolly",
+    "fileStem": "Clolly",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 169,
+    "name": "Clodiva",
+    "fileStem": "Clodiva",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 170,
+    "name": "Asterish",
+    "fileStem": "Asterish",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 171,
+    "name": "Gilactic",
+    "fileStem": "Gilactic",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 172,
+    "name": "Chryspark",
+    "fileStem": "Chryspark",
+    "rarity": "common",
+    "type1": "Electric"
+  },
+  {
+    "id": 173,
+    "name": "Chrysurge",
+    "fileStem": "Chrysurge",
+    "rarity": "common",
+    "type1": "Electric"
+  },
+  {
+    "id": 174,
+    "name": "Chrycirc",
+    "fileStem": "Chrycirc",
+    "rarity": "common",
+    "type1": "Electric"
+  },
+  {
+    "id": 175,
+    "name": "Luxp",
+    "fileStem": "Luxp",
+    "rarity": "common",
+    "type1": "Steel"
+  },
+  {
+    "id": 176,
+    "name": "Leazury",
+    "fileStem": "Leazury",
+    "rarity": "common",
+    "type1": "Steel"
+  },
+  {
+    "id": 177,
+    "name": "Winkip",
+    "fileStem": "Winkip",
+    "rarity": "common",
+    "type1": "Poison"
+  },
+  {
+    "id": 178,
+    "name": "Winkap",
+    "fileStem": "Winkap",
+    "rarity": "common",
+    "type1": "Poison"
+  },
+  {
+    "id": 179,
+    "name": "Winkarni",
+    "fileStem": "Winkarni",
+    "rarity": "common",
+    "type1": "Poison"
+  },
+  {
+    "id": 180,
+    "name": "Qwirm",
+    "fileStem": "Qwirm",
+    "rarity": "common",
+    "type1": "Ground"
+  },
+  {
+    "id": 181,
+    "name": "Shadeleon",
+    "fileStem": "Shadeleon",
+    "rarity": "common",
+    "type1": "Dark"
+  },
+  {
+    "id": 182,
+    "name": "Chromeleon",
+    "fileStem": "Chromeleon",
+    "rarity": "common",
+    "type1": "Dark"
+  },
+  {
+    "id": 183,
+    "name": "Searpent",
+    "fileStem": "Searpent",
+    "rarity": "common",
+    "type1": "Fire"
+  },
+  {
+    "id": 184,
+    "name": "Synopede",
+    "fileStem": "Synopede",
+    "rarity": "common",
+    "type1": "Bug"
+  },
+  {
+    "id": 185,
+    "name": "Lunapede",
+    "fileStem": "Lunapede",
+    "rarity": "common",
+    "type1": "Bug"
+  },
+  {
+    "id": 186,
+    "name": "Brayd",
+    "fileStem": "Brayd",
+    "rarity": "common",
+    "type1": "Fairy"
+  },
+  {
+    "id": 187,
+    "name": "Brushle",
+    "fileStem": "Brushle",
+    "rarity": "common",
+    "type1": "Fairy"
+  },
+  {
+    "id": 188,
+    "name": "Velamour",
+    "fileStem": "Velamour",
+    "rarity": "common",
+    "type1": "Fairy"
+  },
+  {
+    "id": 189,
+    "name": "Adepht",
+    "fileStem": "Adepht",
+    "rarity": "common",
+    "type1": "Psychic"
+  },
+  {
+    "id": 190,
+    "name": "Squizard",
+    "fileStem": "Squizard",
+    "rarity": "common",
+    "type1": "Psychic"
+  },
+  {
+    "id": 191,
+    "name": "Sorcepher",
+    "fileStem": "Sorcepher",
+    "rarity": "common",
+    "type1": "Psychic"
+  },
+  {
+    "id": 192,
+    "name": "Boistaur",
+    "fileStem": "Boistaur",
+    "rarity": "common",
+    "type1": "Fighting"
+  },
+  {
+    "id": 193,
+    "name": "Robustaur",
+    "fileStem": "Robustaur",
+    "rarity": "common",
+    "type1": "Fighting"
+  },
+  {
+    "id": 194,
+    "name": "Majestaur",
+    "fileStem": "Majestaur",
+    "rarity": "common",
+    "type1": "Fighting"
+  },
+  {
+    "id": 195,
+    "name": "Blockodile",
+    "fileStem": "Blockodile",
+    "rarity": "common",
+    "type1": "Rock"
+  },
+  {
+    "id": 196,
+    "name": "Sanda",
+    "fileStem": "Sanda",
+    "rarity": "common",
+    "type1": "Fighting"
+  },
+  {
+    "id": 197,
+    "name": "Dansakoi",
+    "fileStem": "Dansakoi",
+    "rarity": "common",
+    "type1": "Fighting"
+  },
+  {
+    "id": 198,
+    "name": "Subyss",
+    "fileStem": "Subyss",
+    "rarity": "common",
+    "type1": "Ghost"
+  },
+  {
+    "id": 199,
+    "name": "Flooie",
+    "fileStem": "Flooie",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 200,
+    "name": "Flobal",
+    "fileStem": "Flobal",
+    "rarity": "common",
+    "type1": "Water"
+  },
+  {
+    "id": 201,
+    "name": "Snagatoof",
+    "fileStem": "Snagatoof",
+    "rarity": "common",
+    "type1": "Dragon"
+  },
+  {
+    "id": 202,
+    "name": "Fangtomask",
+    "fileStem": "Fangtomask",
+    "rarity": "common",
+    "type1": "Dragon"
+  },
+  {
+    "id": 203,
+    "name": "Burrb",
+    "fileStem": "Burrb",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 204,
+    "name": "Spikonsia",
+    "fileStem": "Spikonsia",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 205,
+    "name": "Varmot",
+    "fileStem": "Varmot",
+    "rarity": "common",
+    "type1": "Normal"
+  },
+  {
+    "id": 206,
+    "name": "Trablur",
+    "fileStem": "Trablur",
+    "rarity": "common",
+    "type1": "Ghost"
+  },
+  {
+    "id": 207,
+    "name": "Vizitid",
+    "fileStem": "Vizitid",
+    "rarity": "common",
+    "type1": "Ghost"
+  },
+  {
+    "id": 208,
+    "name": "Thissblade",
+    "fileStem": "Thissblade",
+    "rarity": "common",
+    "type1": "Grass"
+  },
+  {
+    "id": 209,
+    "name": "Snome",
+    "fileStem": "Snome",
+    "rarity": "common",
+    "type1": "Ice"
+  },
+  {
+    "id": 210,
+    "name": "Froll",
+    "fileStem": "Froll",
+    "rarity": "common",
+    "type1": "Ice"
+  },
+  {
+    "id": 211,
+    "name": "Flyrry",
+    "fileStem": "Flyrry",
+    "rarity": "common",
+    "type1": "Ice"
+  },
+  {
+    "id": 212,
+    "name": "Wyntry",
+    "fileStem": "Wyntry",
+    "rarity": "common",
+    "type1": "Ice"
+  },
+  {
+    "id": 213,
+    "name": "Gardial",
+    "fileStem": "Gardial",
+    "rarity": "common",
+    "type1": "Psychic"
+  },
+  {
+    "id": 214,
+    "name": "Appalyp",
+    "fileStem": "Appalyp",
+    "rarity": "common",
+    "type1": "Dark"
+  },
+  {
+    "id": 215,
+    "name": "Sycoral",
+    "fileStem": "Sycoral",
+    "rarity": "common",
+    "type1": "Dark"
+  },
+  {
+    "id": 216,
+    "name": "Nemesusa",
+    "fileStem": "Nemesusa",
+    "rarity": "common",
+    "type1": "Dark"
+  },
+  {
+    "id": 217,
+    "name": "Fencival",
+    "fileStem": "Fencival",
+    "rarity": "common",
+    "type1": "Steel"
+  },
+  {
+    "id": 218,
+    "name": "Enderbird",
+    "fileStem": "Enderbird",
+    "rarity": "common",
+    "type1": "Ghost"
+  },
+  {
+    "id": 219,
+    "name": "Lizquent",
+    "fileStem": "Lizquent",
+    "rarity": "common",
+    "type1": "Dark"
+  }
+]

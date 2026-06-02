@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>Connected!</title></head>
+<body style="background:#0f1117;color:#e4e6ef;font-family:sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0">
+<div style="text-align:center">
+<h2 style="color:#22c55e">Connected!</h2>
+<p style="color:#8b8fa3">You can close this window.</p>
+</div>
+<script>
+  // Extract the auth code from URL parameters
+  const params = new URLSearchParams(window.location.search);
+  const code = params.get('code');
+  const error = params.get('error');
+
+  if (code && window.opener) {
+    window.opener.postMessage('oauth_code:' + code, '*');
+    setTimeout(() => window.close(), 2000);
+  } else if (error) {
+    document.querySelector('h2').textContent = 'Authorization Failed';
+    document.querySelector('h2').style.color = '#ef4444';
+    document.querySelector('p').textContent = error;
+  }
+</script>
+</body>
+</html>
