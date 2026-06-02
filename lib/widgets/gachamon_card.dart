@@ -162,8 +162,8 @@ class GachamonCardContent extends ConsumerWidget {
                         ),
                       ),
                     ),
-                    // Pokeball stamps in each corner.
-                    ..._cornerPokeballs(
+                    // Gachaball stamps in each corner.
+                    ..._cornerGachaballs(
                       ballSize: ballSize,
                       inset: ballInset,
                       topExtra: topExtraPad,
@@ -201,7 +201,7 @@ class GachamonCardContent extends ConsumerWidget {
   /// Four gachaball icons, one per page corner, with directional padding
   /// so each pair (top/bottom, left/right) can have its own breathing
   /// room. Top pair's padding is the largest to clear the binding rings.
-  List<Widget> _cornerPokeballs({
+  List<Widget> _cornerGachaballs({
     required double ballSize,
     required double inset,
     required double topExtra,

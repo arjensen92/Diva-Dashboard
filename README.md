@@ -25,8 +25,6 @@ few API keys, and you have a working install:
   pixel font — everything `lib/` references
 - The Python scraper that built the gachadex
   (`scrape_mongratis.py`) if you want to regenerate or extend it
-- Architecture documentation (`ARCHITECTURE.md`,
-  `DEVELOPMENT.md`)
 
 What you bring:
 
@@ -68,8 +66,6 @@ kitchen_dashboard_public/
 ├── lists.json                   Task-list names
 ├── mongratis_credits.md         Artist attributions
 ├── scrape_mongratis.py          Scraper that built gachadex.json
-├── ARCHITECTURE.md              How the codebase fits together
-├── DEVELOPMENT.md               Day-to-day dev workflow
 ├── assets/
 │   ├── backgrounds/             Dashboard background images + graphics
 │   ├── fonts/                   PressStart2P pixel font
@@ -171,15 +167,6 @@ path so stickers get the outline + holo shimmer treatment).
 
 After adding files, `flutter clean && flutter build windows --release`
 to repackage assets.
-
----
-
-## Architecture
-
-`ARCHITECTURE.md` documents the system in depth. The "Design decisions
-and runtime optimizations" section is the best starting point for
-understanding why things are shaped the way they are. `DEVELOPMENT.md`
-covers day-to-day workflow.
 
 ---
 

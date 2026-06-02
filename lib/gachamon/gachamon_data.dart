@@ -60,7 +60,7 @@ class Gachamon {
   /// Weight formatted as `X.X lbs`.
   final String? weight;
   /// Unique-key of the gachamon that evolves into this one (null for base
-  /// forms). Form-aware: `"79:Galar"` points at Galarian Slowpoke.
+  /// forms). Form-aware: `"79:Regional"` points at a regional variant of #79.
   final String? preEvolution;
   /// Unique-keys of gachamon that this one evolves into (empty when final form).
   final List<String> evolution;
@@ -117,11 +117,11 @@ class Gachamon {
       formFolder: j['formFolder']?.toString(),
       // Accept both the conventional camelCase keys ('type1'/'type2'
       // — what scrape_mongratis.py writes) and the legacy capitalized
-      // form ('Type 1'/'Type 2' — what the older hand-authored
-      // pokedex.json schema used). Without this fallback the in-memory
-      // pk.type1/type2 silently come back null even though the JSON
-      // file clearly has the value, which makes the card render as a
-      // gray fallback with no type chips.
+      // form ('Type 1'/'Type 2' — what an older hand-authored schema
+      // used). Without this fallback the in-memory pk.type1/type2
+      // silently come back null even though the JSON file clearly has
+      // the value, which makes the card render as a gray fallback with
+      // no type chips.
       type1: (j['type1'] ?? j['Type 1'])?.toString(),
       type2: (j['type2'] ?? j['Type 2'])?.toString(),
       dexEntry: j['dexEntry']?.toString(),

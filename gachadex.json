@@ -291,7 +291,7 @@
     "type1": "Ground",
     "type2": "Rock",
     "category": "Shelter Mon",
-    "dexEntry": "Losing the grass typing on evolution has made Hogriks' body much less susceptible to being blown down. Often found resting near small villages, Hogriks will let small Pokemon take refuge inside its fortified body."
+    "dexEntry": "Losing the grass typing on evolution has made Hogriks' body much less susceptible to being blown down. Often found resting near small villages, Hogriks will let small gachamon take refuge inside its fortified body."
   },
   {
     "id": 30,
@@ -474,7 +474,7 @@
     "category": "Broken Mon",
     "height": "6'11\"",
     "weight": "24.9 lbs",
-    "dexEntry": "It floats aimlessly though the seas, barely seeming like a living creature at times. Its slender, sickly-looking body allows it to easily slip through hard-to-reach areas. However, this also makes them susceptible to being washed ashore. Many washed-up Shorelorn are mistaken for long-dead fish pokemon even if freshly stranded."
+    "dexEntry": "It floats aimlessly though the seas, barely seeming like a living creature at times. Its slender, sickly-looking body allows it to easily slip through hard-to-reach areas. However, this also makes them susceptible to being washed ashore. Many washed-up Shorelorn are mistaken for long-dead fish gachamon even if freshly stranded."
   },
   {
     "id": 47,
@@ -770,7 +770,7 @@
     "rarity": "common",
     "type1": "Water",
     "category": "? Mon",
-    "dexEntry": "Occasionally, this Pokemon is distributed as a Starter for new trainers."
+    "dexEntry": "Occasionally, this gachamon is distributed as a Starter for new trainers."
   },
   {
     "id": 77,

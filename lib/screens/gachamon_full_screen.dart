@@ -59,7 +59,7 @@ class _GachamonFullScreenState extends ConsumerState<GachamonFullScreen> {
   Future<void> _warmImageCache(Duration _) async {
     if (!mounted) return;
 
-    // Pokeball icons. Tiny files used by the status row, catch dialog
+    // Gachaball icons. Tiny files used by the status row, catch dialog
     // title, counter, and main catch button. Awaited so they're
     // guaranteed in the cache before the catch dialog can render.
     for (final path in [
@@ -482,7 +482,7 @@ class _CatchingDialogState extends ConsumerState<_CatchingDialog>
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  // Pokeball count readout
+                  // Gachaball count readout
                   Row(
                     mainAxisSize: MainAxisSize.min,
                     children: [
