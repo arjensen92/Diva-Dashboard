@@ -8,7 +8,8 @@ and a Fakémon-style catching minigame into one nostalgic Win95 desktop.
 Built with Flutter for Windows desktop. Tested at 1920×1280 and
 fullscreen on secondary displays.
 
-![Win95 chrome](#) <!-- TODO: add a screenshot -->
+![Win95 chrome](docs/calendar_view.png)
+![Win95 chrome](docs/spotify_view.png)
 
 ---
 
