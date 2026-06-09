@@ -1,4 +1,4 @@
-# Kitchen Dashboard
+# Diva Dashboard
 
 A Win95-styled Windows desktop dashboard, designed to run fullscreen on
 a kitchen-mounted secondary monitor. Combines a calendar, task lists,
@@ -24,8 +24,6 @@ few API keys, and you have a working install:
   with sprites under `assets/gachamon/`
 - Background images, sticker graphics, sparkle overlays, type icons,
   pixel font — everything `lib/` references
-- The Python scraper that built the gachadex
-  (`scrape_mongratis.py`) if you want to regenerate or extend it
 
 What you bring:
 
@@ -45,14 +43,7 @@ flutter pub get
 # Build the Windows release exe
 flutter build windows --release
 # → build/windows/x64/runner/Release/kitchen_dashboard.exe
-
-# Or run hot-reload dev mode
-flutter run -d windows
 ```
-
-**Heads up**: the build will fail with `MSB3027: Could not copy
-WebView2Loader.dll` if a previous `kitchen_dashboard.exe` is still
-running. Close it first.
 
 ---
 
@@ -66,26 +57,21 @@ kitchen_dashboard_public/
 ├── video_backgrounds.json       YouTube URLs for background videos
 ├── lists.json                   Task-list names
 ├── mongratis_credits.md         Artist attributions
-├── scrape_mongratis.py          Scraper that built gachadex.json
 ├── assets/
 │   ├── backgrounds/             Dashboard background images + graphics
 │   ├── fonts/                   PressStart2P pixel font
 │   ├── gachamon/                Per-generation sprite folders
 │   └── icons/                   UI icons + type icons
 └── lib/
-    ├── main.dart                Window setup (fullscreen, secondary monitor)
+    ├── main.dart                Window setup
     ├── database/database.dart   Drift tables (Habits, Tasks, AuthTokens)
     ├── gachamon/                Gachamon data model + game logic
     ├── screens/                 One screen per feature + DashboardScreen
-    ├── widgets/                 Win95 chrome, cards, sticker layer, etc.
+    ├── widgets/                 Win95 styling, cards, sticker layer, etc.
     ├── services/                Drift-backed + external APIs
     ├── providers/               Riverpod state
     └── theme/                   Colors, theme, animated backgrounds
 ```
-
-The runtime data files at the project root (`gachadex.json`,
-`gachamon_game.json`, etc.) are resolved by `lib/services/path_service.dart`
-— it walks up from the exe to find them.
 
 ---
 
@@ -99,8 +85,6 @@ credential.
 ```bash
 cp .env.example .env
 ```
-
-`.env` is git-ignored so your secrets stay local.
 
 ### 2. Google Calendar
 
@@ -131,18 +115,7 @@ and Spotify after the keys are in place.
 
 ## Customizing the gachadex
 
-The shipped `gachadex.json` is the Mongratis collection. To regenerate
-or replace it:
-
-```bash
-pip install requests beautifulsoup4
-python scrape_mongratis.py            # full scrape (219 entries)
-python scrape_mongratis.py --limit 5  # smoke test
-```
-
-The scraper writes `gachadex.json`, downloads sprites to
-`assets/gachamon/generation_<N>/`, and emits a fresh
-`mongratis_credits.md`.
+The shipped `gachadex.json` is the Mongratis collection.
 
 To author your own dex from scratch, edit `gachadex.json` directly —
 schema lives in `lib/gachamon/gachamon_data.dart` (`Gachamon.fromJson`).
@@ -160,8 +133,6 @@ path so stickers get the outline + holo shimmer treatment).
 - **Sticker graphics**: drop in `assets/backgrounds/graphics/` —
   scattered as decorative overlays on the dashboard.
 - **Sparkle particles**: drop in `assets/backgrounds/sparkles/`.
-- **Sound effects**: `assets/sounds/{throw,catch,PC}.mp3` — currently
-  not shipped; the catch dialog renders silently without them.
 - **Holiday icons**: `assets/icons/holidays/<HolidayName>.png` —
   rendered next to calendar days. Falls back to `Icons.event` if
   missing.
